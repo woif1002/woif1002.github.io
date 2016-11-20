@@ -1,0 +1,74 @@
+/*头部开始*/
+#head{width:100%;height:46px;background:#252525;border-bottom:3px solid #e5493a;position:fixed;top:0;z-index:99;}
+.head_a{width:90%;height:68px;margin:0 auto}
+.logo{width:99px;height:26px;background:url(../img/logo_03.jpg) no-repeat;float:left;margin-top:10px;}
+.nav{width:50%;height:68px;line-height:46px;float:right;}
+.nav li{float:left}
+.nav li a{color:#898989;font-size:17px;margin:0 30px;}
+.nav li a:hover{color:#e5493a}
+/*banner开始*/
+#banner{width:100%;height:611px;background:url(../img/bannera_06.png) no-repeat center;border-bottom:41px solid #363636;padding-top:48px;}
+#banner h2{width:100%;font-size:50px;color:#b33e35;text-align:center;padding-top:184px;}
+#banner h3{width:100%;font-size:32px;text-align:center;padding-top:15px;color:#fff;}
+.ban{width:100%;text-align:center;margin-top:70px;}
+.ban button{width:121px;height:38px;background-color:transparent;font-size:14px;color:#fff;line-height:38px;border:1px solid #fff;margin:0 10px;border-radius:3px;}
+.ban button a{color:#fff;}
+.bu:hover{width:121px;height:38px;background-color:transparent;border:0;background:#363636;}
+.bt:hover{width:121px;height:38px;background-color:transparent;border:0;background:#363636;}
+/*main_a开始*/
+#main_a{width:100%;height:478px;background:#fafafa;padding-top:48px;}
+.main_aa{width:157px;height:16px;padding-top:42px;margin:0 auto;}
+.main_aa span{width:33px;height:1px;background:#c0c0c0;margin-top:8px;float:left;}
+.main_aa .main_ap{width:90px;float:left;text-align:center;font-size:12px;color:#a4a4a4}
+.main_ap b{font-size:16px;color:#767676;}
+.main_au{width:90%;height:60px;margin:0 auto;margin-top:70px;}
+.main_au li{width:23.8%;height:266px;float:left;margin-right:14px;background:#fff;text-align:center}
+.main_au li:hover,.main_au li .img:hover,.main_au li span{color:red;}
+.main_au li .img{width:82px;height:82px;background:#363636;border-radius:41px;text-align:center;line-height:82px;font-size:20px;color:#fff;margin:0 auto;margin-top:-40px;}
+.main_au li h2{font-size:16px;text-align:center;margin-top:18px;}
+.main_au li p{width:60%;height:120px;font-size:14px;margin:0 auto;text-align:center;line-height:28px;margin-top:28px;}
+.main_au li span{width:30%;height:1px;background:#6c6c6c;margin:0 auto;display:block;}
+.main_au .main_ald{margin-right:0;}
+
+/*main_b开始*/
+#main_b{width:100%;height:666px;background:#fff;padding-top:48px;}
+.main_b{width:90%;height:352px;margin:0 auto;margin-top:120px;}
+.main_l{width:25%;height:352px;background:url(../img/banner_03.png) no-repeat ;margin-right:10%;float:left;}
+.main_r{width:65%;height:352px;float:left;}
+.main_r p{font-size:16px;line-height:32px;}
+.m{border-bottom:dotted;width:60px;}
+.n{border-bottom:dotted;width:200px;}
+.main_r p b{color:#eb817a;}
+.main_r .main_rb{font-size:14px;line-height:28px;margin-top:20px;}
+.main_r button{width:96px;height:40px;background:#e5493a;border:0;border-radius:4px;font-size:16px;color:#fff;margin-top:116px;}
+/*main_c开始*/
+#main_c{width:100%;height:426px;background:#fafafa;padding-top:48px;}
+.main_c{width:90%;margin:0 auto;margin-top:48px;}
+.main_cl{width:12%;height:70px;margin-right:8%;float:left;}
+.main_cl li{width:100%;height:70px;font-size:18px;color:#787878;line-height:70px;}
+.main_cr {width:70%;height:60px;float:left;}
+.main_cr li{width:100%;height:60px;margin-top:10px;}
+.main_cr li progress{width:98%;height:4px;color:#e5493a;}
+.main_cr li div{width:30px;height:20px;background:red;line-height:18px;text-align:center;float:right;margin-right:18px;border-radius:4px;display:none;}
+#ab{margin-right:8%;}
+#ac{margin-right:25%;}
+#ad{margin-right:12%}
+/*main_d开始*/
+#main_d{width:100%;height:884px;background:#fff;padding-top:48px;}
+.main_dt{width:90%;height:300px;margin:0 auto;margin-top:116px;}
+.main_dl img{width:30%;height:300px;float:left;}
+.main_dc img{width:40%;height:300px;float:left;}
+.main_dr img{width:30%;height:300px;float:left;}
+.main_db .main_dr{width:30%;height:300px;float:left;background:url(../img/e_09.png) no-repeat;background-size:100%;}
+.main_db .main_dr .main_drc{width:98%;height:98%;background:#000;margin:0 auto;position:relative;top:50%;left:50%;margin:-40% 0 0 -49%;opacity:0.4;font-size:34px;color:#fff;text-align:center;line-height:300px;}
+.main_db{width:90%;height:190px;margin:0 auto;}
+
+/*底部开始*/
+#fooner{width:100%;height:316px;background:#363636;padding-top:48px;}
+#fooner .main_aa .main_ap{color:#fff;}
+#fooner .main_aa .main_ap b{color:#fff;}
+.fonn_a{width:100%;height:20px;text-align:center;color:#fff;font-size:16px;margin-top:30px;}
+.fon_u{width:39%;height:20px;margin:0 auto;margin-top:66px;}
+.fon_u li{width:33.3%;float:left;text-align:center;}
+.fon_u li img{width:50px;height:40px;}
+.fon_u li p{color:#fff;margin-top:26px;font-size:18px;}

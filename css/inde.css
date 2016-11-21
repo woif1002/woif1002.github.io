@@ -2,7 +2,7 @@
 #head{width:100%;height:46px;background:#252525;border-bottom:3px solid #e5493a;position:fixed;top:0;z-index:99;}
 .head_a{width:90%;height:68px;margin:0 auto}
 .logo{width:99px;height:26px;background:url(../img/logo_03.jpg) no-repeat;float:left;margin-top:10px;}
-.nav{width:50%;height:68px;line-height:46px;float:right;}
+.nav{height:68px;line-height:46px;float:right;}
 .nav li{float:left}
 .nav li a{color:#898989;font-size:17px;margin:0 30px;}
 .nav li a:hover{color:#e5493a}
@@ -33,7 +33,7 @@
 /*main_b开始*/
 #main_b{width:100%;height:666px;background:#fff;padding-top:48px;}
 .main_b{width:90%;height:352px;margin:0 auto;margin-top:120px;}
-.main_l{width:25%;height:352px;background:url(../img/banner_03.png) no-repeat ;margin-right:10%;float:left;}
+.main_l{width:25%;height:352px;background:url(../img/banner_02.jpg) no-repeat ;margin-right:10%;float:left;}
 .main_r{width:65%;height:352px;float:left;}
 .main_r p{font-size:16px;line-height:32px;}
 .m{border-bottom:dotted;width:60px;}
@@ -60,7 +60,7 @@
 .main_dc img{width:40%;height:300px;float:left;}
 .main_dr img{width:30%;height:300px;float:left;}
 .main_db .main_dr{width:30%;height:300px;float:left;background:url(../img/e_09.png) no-repeat;background-size:100%;}
-.main_db .main_dr .main_drc{width:98%;height:98%;background:#000;margin:0 auto;position:relative;top:50%;left:50%;margin:-40% 0 0 -49%;opacity:0.4;font-size:34px;color:#fff;text-align:center;line-height:300px;}
+.main_db .main_dr .main_drc{width:98%;height:98%;background:#000;position:relative;top:106px;left:50%;margin:-40% 0 0 -49%;opacity:0.4;font-size:34px;color:#fff;text-align:center;line-height:300px;}
 .main_db{width:90%;height:190px;margin:0 auto;}
 
 /*底部开始*/
